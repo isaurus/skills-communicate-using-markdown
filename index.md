@@ -11,3 +11,8 @@ public class User
   public string Name { get; set; }
 }
 ```
+
+## CheckList
+- [x] Añadir imagen a 'index.md'
+- [x] Añadir fragmento de código a 'index.md'
+- [ ] Finalizar curso de GitHub
